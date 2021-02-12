@@ -6,5 +6,7 @@ Cmd line to run:
 
 Comments:
 
-	Sketchy company, very misleading. They target the unemployed but do not have any positions to offer, just want to attract more customers for their paid training sessions.
-	Public for future references as their e-mail harassment got to me and I ended up doing the assignment. Truthfully, don't waste your time.
+	Sketchy company, very misleading. They target the unemployed but do not have any positions to offer
+	only to attract more customers for their paid training sessions.
+	Public for future references as their e-mail harassment got me and I ended up doing their "accessment". 
+	Truthfully, don't waste your time.

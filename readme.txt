@@ -15,6 +15,8 @@ Cmd line to run:
 
 Comments:
 
-	Sketchy company, very misleading. They target the unemployed but do not have any positions to offer.
-	They only goal is to attract more customers for their paid training sessions.
-	Public for future references as I ended up doing their "accessment" but truthfully, don't waste your time.
+	Sketchy company, misleading and manipulative. 
+	They target the unemployed but dnn't have any actual positions to offer and
+	give poor accessment reviews to attract potential customers for their paid training sessions.
+	Public for future references as I ended up doing their "accessment". 
+	Truthfully, don't waste your time on them.

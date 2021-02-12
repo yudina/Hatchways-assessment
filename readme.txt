@@ -1,7 +1,7 @@
-Hatchways general assignment
+Hatchways general assessment
 __
 
-Assessment:
+Task:
 
 	Parsing in python of multiple csv files to generate a report in the form of a json file
 
@@ -16,7 +16,7 @@ Cmd line to run:
 Comments:
 
 	Sketchy company, misleading and manipulative. 
-	They target the unemployed but dnn't have any actual positions to offer and
-	give poor accessment reviews to attract potential customers for their paid training sessions.
-	Public for future references as I ended up doing their "accessment". 
-	Truthfully, don't waste your time on them.
+	They target the unemployed but don't have any actual positions to offer and
+	give bad feedback to attract potential customers for their paid training sessions.
+	
+	Set repo public as warning: don't waste your time on them.

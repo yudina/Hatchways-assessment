@@ -4,5 +4,5 @@ Cmd line to run:
 
 Comments:
 
-	Sketchy company, very harass-y. Did not specify expected time yet penalized my entry for speed.
+	Sketchy company, very harass-y. Did not specify expected time yet penalized entry heavily for speed.
 	Public for future references

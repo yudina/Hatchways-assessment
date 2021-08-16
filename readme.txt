@@ -15,8 +15,6 @@ Cmd line to run:
 
 Comments:
 
-	Sketchy company, misleading and manipulative. 
-	They target the unemployed but don't have any actual positions to offer and
-	give bad feedback to attract potential customers for their paid training sessions.
+	Sketchy company, pretend to be hiring new grads but their real goal is to sell their paid classes. 
 	
 	Set repo public as warning: don't waste your time on them.
